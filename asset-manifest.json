@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vinhnt/static/css/main.9e460cde.css",
+    "main.js": "/vinhnt/static/js/main.36ff9439.js",
+    "index.html": "/vinhnt/index.html",
+    "main.9e460cde.css.map": "/vinhnt/static/css/main.9e460cde.css.map",
+    "main.36ff9439.js.map": "/vinhnt/static/js/main.36ff9439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e460cde.css",
+    "static/js/main.36ff9439.js"
+  ]
+}
