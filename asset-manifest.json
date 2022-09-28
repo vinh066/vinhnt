@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vinhnt/static/css/main.df2ac24f.css",
-    "main.js": "/vinhnt/static/js/main.83d76d88.js",
+    "main.js": "/vinhnt/static/js/main.354b3f8e.js",
     "static/media/galaxy-space.jpg": "/vinhnt/static/media/galaxy-space.f932340f814f7f70f377.jpg",
     "index.html": "/vinhnt/index.html",
     "main.df2ac24f.css.map": "/vinhnt/static/css/main.df2ac24f.css.map",
-    "main.83d76d88.js.map": "/vinhnt/static/js/main.83d76d88.js.map"
+    "main.354b3f8e.js.map": "/vinhnt/static/js/main.354b3f8e.js.map"
   },
   "entrypoints": [
     "static/css/main.df2ac24f.css",
-    "static/js/main.83d76d88.js"
+    "static/js/main.354b3f8e.js"
   ]
 }
