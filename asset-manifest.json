@@ -1,14 +1,17 @@
 {
   "files": {
-    "main.css": "/vinhnt/static/css/main.df2ac24f.css",
-    "main.js": "/vinhnt/static/js/main.354b3f8e.js",
+    "main.css": "/vinhnt/static/css/main.c145079f.css",
+    "main.js": "/vinhnt/static/js/main.2259e008.js",
+    "static/media/logo.png": "/vinhnt/static/media/logo.18a7191678e558c5519c.png",
     "static/media/galaxy-space.jpg": "/vinhnt/static/media/galaxy-space.f932340f814f7f70f377.jpg",
+    "static/media/clouds.png": "/vinhnt/static/media/clouds.7f1ae093f96d93b02504.png",
+    "static/media/platform.png": "/vinhnt/static/media/platform.69db09bf9618dbe6c387.png",
     "index.html": "/vinhnt/index.html",
-    "main.df2ac24f.css.map": "/vinhnt/static/css/main.df2ac24f.css.map",
-    "main.354b3f8e.js.map": "/vinhnt/static/js/main.354b3f8e.js.map"
+    "main.c145079f.css.map": "/vinhnt/static/css/main.c145079f.css.map",
+    "main.2259e008.js.map": "/vinhnt/static/js/main.2259e008.js.map"
   },
   "entrypoints": [
-    "static/css/main.df2ac24f.css",
-    "static/js/main.354b3f8e.js"
+    "static/css/main.c145079f.css",
+    "static/js/main.2259e008.js"
   ]
 }
